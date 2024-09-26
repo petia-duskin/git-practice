@@ -3,7 +3,4 @@ cat
 fruits
 dog 2
 keyboard
-dog 
-cat
-bird
-fly
+some words
